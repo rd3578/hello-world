@@ -1,0 +1,17 @@
+﻿  base.cpp
+  base64.cpp
+  源.cpp
+C:\Users\vboxuser\Desktop\Project1\源.cpp(49,55): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\vboxuser\Desktop\Project1\源.cpp(205,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\vboxuser\Desktop\Project1\源.cpp(212,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\vboxuser\Desktop\Project1\源.cpp(577,51): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\vboxuser\Desktop\Project1\源.cpp(748,11): warning C4101: “pszOutBuffer”: 未引用的局部变量
+C:\Users\vboxuser\Desktop\Project1\源.cpp(992,49): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\vboxuser\Desktop\Project1\源.cpp(996,55): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  已完成代码的生成
+  Previous IPDB not found, fall back to full compilation.
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Project1.vcxproj -> C:\Users\vboxuser\Desktop\Project1\x64\Release\Project1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
